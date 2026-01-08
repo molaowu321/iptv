@@ -56,10 +56,8 @@ http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6277/index.m3u8
 #EXTINF:-1 group-title="国际",Wicked
 http://6c72636e.amazzin.pw/iptv/4HP7GES799X3WU/6287/index.m3u8
 #EXTM3U
-#EXTINF:-1 group-title="纯IP测试",CCTV1
-http://111.20.105.51/PLTV/88888888/224/3221225829/index.m3u8
-#EXTINF:-1 group-title="纯IP测试",CCTV6
-http://111.20.105.51/PLTV/88888888/224/3221225825/index.m3u8
-#EXTINF:-1 group-title="纯IP测试",湖南卫视
-http://111.20.105.51/PLTV/88888888/224/3221225841/index.m3u8
+#EXTINF:-1 group-title="直连测试",CCTV1
+http://cctvtxyh5ca.cntv.myalicdn.com/live/public/cctv1/index.m3u8
+#EXTINF:-1 group-title="直连测试",CCTV6
+http://cctvtxyh5ca.cntv.myalicdn.com/live/public/cctv6/index.m3u8
 
