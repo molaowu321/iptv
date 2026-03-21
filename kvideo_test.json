@@ -1,5 +1,26 @@
 [
-  {"name":"极速资源","url":"https://jszyapi.com/api.php/provide/vod"},
-  {"name":"非凡影视","url":"https://api.ffzyapi.com/api.php/provide/vod"},
-  {"name":"最大资源","url":"https://api.zuidapi.com/api.php/provide/vod"}
+  {
+    "id": "jisu",
+    "name": "极速资源",
+    "baseUrl": "https://jszyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 1
+  },
+  {
+    "id": "feifan",
+    "name": "非凡影视",
+    "baseUrl": "https://api.ffzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 2
+  },
+  {
+    "id": "zuida",
+    "name": "最大资源",
+    "baseUrl": "https://api.zuidapi.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 3
+  }
 ]
